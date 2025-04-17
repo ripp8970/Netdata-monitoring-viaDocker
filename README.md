@@ -56,6 +56,9 @@ If encountered connection issues, consider the following:
 
 ## Deliverables
 - **Screenshot of the Dashboard**:
+<p align="center">
+  <img align="center" src="https://github.com/ripp8970/Netdata-monitoring-viaDocker/blob/653baff0bdec1784016106a02d5309e8556fd106/netdata.png" width="100%">
+</p>
 
 - **Running Metrics**: Note down key metrics which is being monitored, such as CPU load, memory usage, and disk activity.
 
